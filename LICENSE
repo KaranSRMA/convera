@@ -1,35 +1,35 @@
-# Convera License
+Convera License
 
 Copyright © 2026 Karan Sharma
 
 Convera is provided free of charge.
 
-## Permissions
+Permissions
 
 You are permitted to:
 
-* Use Convera for personal purposes.
-* Use Convera for commercial and business purposes.
-* Use Convera as part of your freelance or professional workflow.
-* Modify the source code for your own use.
-* Run your own modified version of Convera.
+Use Convera for personal purposes.
+Use Convera for commercial and business purposes.
+Use Convera as part of your freelance or professional workflow.
+Modify the source code for your own use.
+Run your own modified version of Convera.
 
-## Restrictions
+Restrictions
 
-You are **not permitted to**:
+You are not permitted to:
 
-* Sell Convera or any substantial part of it.
-* Resell, redistribute, or sublicense Convera as a paid product.
-* Package Convera into another product and sell it as a product where Convera itself is a substantial part of the offering.
-* Claim ownership of the original Convera project or its source code.
+Sell Convera or any substantial part of it.
+Resell, redistribute, or sublicense Convera as a paid product.
+Package Convera into another product and sell it as a product where Convera itself is a substantial part of the offering.
+Claim ownership of the original Convera project or its source code.
 
-You **may use Convera to provide paid services to your own customers**. For example, freelancers and businesses may use Convera while communicating with customers as part of their normal business activities.
+You may use Convera to provide paid services to your own customers. For example, freelancers and businesses may use Convera while communicating with customers as part of their normal business activities.
 
-## Google Gemini
+Google Gemini
 
-Convera uses the **Google Gemini API** to generate AI-powered reply suggestions.
+Convera uses the Google Gemini API to generate AI-powered reply suggestions.
 
-Gemini, its AI models, API, related technology, trademarks, and associated intellectual property are **not owned by the Convera project or its author**.
+Gemini, its AI models, API, related technology, trademarks, and associated intellectual property are not owned by the Convera project or its author.
 
 Google and Gemini are trademarks and/or properties of Google and are subject to Google's own terms, licenses, and policies.
 
@@ -37,7 +37,7 @@ Convera does not claim ownership of Gemini or any Google technology.
 
 Users who use the Gemini functionality are responsible for obtaining and using their own Gemini API credentials and complying with Google's applicable terms and policies.
 
-## AI-Generated Content
+AI-Generated Content
 
 Convera is an interface/wrapper that sends relevant information to Gemini and displays the generated suggestions.
 
@@ -45,18 +45,18 @@ The actual AI-generated responses are produced by Gemini, not by Convera itself.
 
 AI-generated content may contain mistakes, inaccurate information, or inappropriate suggestions. Users are responsible for reviewing generated content before sending it to customers or using it for business purposes.
 
-## Third-Party Services
+Third-Party Services
 
 Convera may use third-party services, APIs, libraries, or software.
 
 Those services and their associated intellectual property remain the property of their respective owners and are subject to their own licenses and terms.
 
-## No Warranty
+No Warranty
 
-Convera is provided **"as is"**, without warranties of any kind.
+Convera is provided "as is", without warranties of any kind.
 
 The author is not responsible for any loss, damage, incorrect AI-generated content, API usage, service interruption, or other issues resulting from the use of Convera.
 
-## License Changes
+License Changes
 
 This license applies to the Convera project unless a separate written license or agreement is provided by the copyright holder.
