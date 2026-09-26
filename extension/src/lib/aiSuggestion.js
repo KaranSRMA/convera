@@ -58,7 +58,7 @@ export const getSuggestion = async (
 
       console.error("Suggestion server error:", errorText);
 
-      toast.error("Server error at getSuggestion()");
+      toast.error("Server error check logs");
 
       throw new Error(`Server returned ${response.status}`);
     }
@@ -70,7 +70,7 @@ export const getSuggestion = async (
   } catch (error) {
     console.error("getSuggestion error:", error);
 
-    toast.error("Failed to get suggestion");
+    toast.error("Failed to get suggestion, check logs");
 
     return null;
   }
